@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "ss": "php -S 192.168.1.7:6363"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
